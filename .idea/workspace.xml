@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7c458f8-fc5c-4ccc-8e55-6da089ae58d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Class/Business.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/BusinessConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/BusinessGetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/BusinessVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/AddBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DeleteBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DisplayAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/MostSearchedCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SearchByCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SearchByKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SearchByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/ShowRecentSearches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/ShowSearchLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SortBusinesses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SuggestByPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/BusinessLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Business.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BusinessLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Directory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainApp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="359yVftVJiVr9QeQBGaloNjwdkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/ideaProjects/DSA Capstone Project/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\ideaProjects\DSA Capstone Project\src\Business" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c458f8-fc5c-4ccc-8e55-6da089ae58d8" name="Changes" comment="" />
+      <created>1762536607738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762536607738</updated>
+    </task>
+    <servers />
+  </component>
+</project>
